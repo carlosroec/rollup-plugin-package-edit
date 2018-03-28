@@ -1,0 +1,27 @@
+{
+  "name": "rollup-plugin-package-edit",
+  "version": "0.0.1",
+  "description": "Rollup plugin to add/update/remove properties in the package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosroec/rollup-plugin-package-edit.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "package.json"
+  ],
+  "author": "Carlos G. Rodríguez @carlosro_ec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosroec/rollup-plugin-package-edit/issues"
+  },
+  "homepage": "https://github.com/carlosroec/rollup-plugin-package-edit#readme",
+  "devDependencies": {
+    "fs-extra": "^5.0.0"
+  }
+}
